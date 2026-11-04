@@ -30,6 +30,10 @@
 * **deps:** bump google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml ([#3164](https://github.com/IsmaelMartinez/teams-for-linux/issues/3164)) ([a38355d](https://github.com/IsmaelMartinez/teams-for-linux/commit/a38355da1b1f53fb3fb500a419f1c53ec6e49a23))
 * **deps:** bump qs from 6.16.0 to 6.17.1 in /docs-site ([#3157](https://github.com/IsmaelMartinez/teams-for-linux/issues/3157)) ([a763e38](https://github.com/IsmaelMartinez/teams-for-linux/commit/a763e38cb4f6701d57d1b6755979ef86b0289283))
 
+### Thanks
+
+Big thanks to @app/dependabot, @Atem18, @dssouza-ti, @nikolainyegaard for contributing to this release.
+
 ## [2.29.0](https://github.com/IsmaelMartinez/teams-for-linux/compare/v2.28.0...v2.29.0) (2026-10-30)
 
 
